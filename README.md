@@ -28,7 +28,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![OUTPUT](cir.png)
+![OUTPUT](https://user-images.githubusercontent.com/111619160/210329597-17537af3-612c-450d-abf8-d3e60924f54e.jpeg)
 
 ### RESULT:
 Thus findings of distance between two points are successfully executed.
